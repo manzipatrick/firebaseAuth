@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286211480968",
+    "firebase_url": "https://fir-authapp-19cac.firebaseio.com",
+    "project_id": "fir-authapp-19cac",
+    "storage_bucket": "fir-authapp-19cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286211480968:android:e1e9dc90e7b29b78",
+        "android_client_info": {
+          "package_name": "manzi.ur.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286211480968-hltmd12cnltjhcmgvncs1n8hmsol83ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manzi.ur.firebaseauthdemo",
+            "certificate_hash": "dc5c78c3bcd7e0d8a61844d582c9485e2ea939d7"
+          }
+        },
+        {
+          "client_id": "286211480968-d5pljt8hjpo5lvqimqbime8p5kvqr7gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8pQJz3s7Pp3DPA8cjCUwRKtVUYXOi0Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286211480968-d5pljt8hjpo5lvqimqbime8p5kvqr7gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
